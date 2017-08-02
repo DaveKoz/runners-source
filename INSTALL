@@ -1,0 +1,9 @@
+Building RUNNERS
+
+See doc/readme-qt.rst for instructions on building RUNNERS QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of RUNNERS.
+
+See doc/build-*.txt for instructions on building runnersd,
+the intended-for-services, no-graphical-interface, reference
+implementation of RUNNERS.
